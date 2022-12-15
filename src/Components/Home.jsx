@@ -9,7 +9,7 @@ const Home = () => {
           <img className="border border-danger rounded-3" src={me} alt="" />
         </div>
         <div className="p-5 fs-5">
-          <h2 className="fs-1 fst-italic">Hi , there !</h2>
+          <h1 className=" fst-italic ">Hi , there !</h1>
           <div>
             <span className="">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi

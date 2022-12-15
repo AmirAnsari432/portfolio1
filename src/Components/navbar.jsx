@@ -13,12 +13,18 @@ const Navbar = () => {
         </a>
         <div className="d-flex p-2 ">
           <div className="mx-3 text-light">
-            <a className="fw-500 text-light" href="#github">
+            <a
+              className="fw-500 text-light"
+              href="https://github.com/AmirAnsari432"
+            >
               GitHub
             </a>
           </div>
           <div className="mx-3">
-            <a className="text-light" href="linkedIn">
+            <a
+              className="text-light"
+              href="https://www.linkedin.com/in/amir-ansari-80711a237/"
+            >
               LinkedIn
             </a>
           </div>
