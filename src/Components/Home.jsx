@@ -4,14 +4,9 @@ import me from "../Assets/AMIR3.JPG";
 const Home = () => {
   return (
     <div className="">
-      <div></div>
       <div className="d-flex justify-content-center align-item-center">
         <div className="py-5">
-          <img
-            className="border border-danger rounded-3"
-            src={me}
-            alt=""
-          />
+          <img className="border border-danger rounded-3" src={me} alt="" />
         </div>
         <div className="p-5 fs-5">
           <h2 className="fs-1 fst-italic">Hi , there !</h2>
